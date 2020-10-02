@@ -10,7 +10,7 @@ Fue un matemático de origen británico nacido en Teignmouth Inglaterra el 26 de
 Al terminar la “máquina diferencial” dirigió sus esfuerzos a diseñar una máquina analítica que procesara instrucciones aritméticas.
 
 #### Hernan Hollerith
- 
+ <img src="error_capa_8.png" width=220px>
 Nació en Buffalo, Nueva York, el 29 de febrero de 1860, fue un hombre que revolucionó el tratamiento a gran escala de información mediante la automatización, y por tanto el primer informático. Inventor de la máquina tabuladora y fundador de una de las empresas que se fusionaron en CRT, posteriormente renombrada como IBM.
 
 
