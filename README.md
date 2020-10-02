@@ -49,7 +49,7 @@ Nacido 14 de junio de 1903, estableció el concepto de calculabilidad y su demos
 Este resultado unido al trabajo de Turing sobre el problema de parada en la Máquina de Turing, que también demostraba la existencia de un problema irresoluble por medios mecánicos, demostraron que tenían capacidades de computo equivalentes, dando lugar a la Tesis Church-Turing. Destacan sus obras "The Calculi of Lambda-Conversion" (Cálculo de conversión Lambda) en 1941, e "Introduction to Mathematical Logic" (Introducción a la lógica matemática) en 1944.
 
 #### Noam Chomsky
-```
+
 Nacido en 1928 en Filadelfia, es profesor de lingüística en el MIT,sus importantes aportaciones a la teoría de autómatas y al estudio de los lenguajes formales. Dichas aportaciones han resultado elementos indispensables para la construcción de compiladores y traductores que puedan servir de intérpretes válidos entre las órdenes que dan los seres humanos y su correcta recepción y aplicación por máquinas automáticas.
 La jerarquía de Chomsky, que estableció en 1956 en su obra "Three models for the description of language" se convirtió en un concepto central en informática. Así, los lenguajes formales (que no admiten excepciones a las reglas) se dividen en cuatro
 niveles (tres en el estudio original), que son: 
@@ -58,4 +58,3 @@ niveles (tres en el estudio original), que son:
 3.	Lenguajes sensibles al contexto.
 4.	Lenguajes recursivamente enumerables.
 
-```
