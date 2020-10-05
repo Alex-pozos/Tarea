@@ -21,6 +21,7 @@ Al terminar la “máquina diferencial” dirigió sus esfuerzos a diseñar una 
 Nació en Buffalo, Nueva York, el 29 de febrero de 1860, fue un hombre que revolucionó el tratamiento a gran escala de información mediante la automatización, y por tanto el primer informático. Inventor de la máquina tabuladora y fundador de una de las empresas que se fusionaron en CRT, posteriormente renombrada como IBM.
 
 <br>
+
 #### Alan Mathison Turing
  <img src="Alan.jpg" width=220px>
 
