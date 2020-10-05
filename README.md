@@ -99,7 +99,8 @@ En 1955, von Neumann fue diagnosticado de cáncer de páncreas. Un año y medio 
 ##### Aportaciones
 - Fue pionero de la computadora digital moderna y de la aplicación de la teoría de operadores a la mecánica cuántica.
 - La primera computadora en usar el citado concepto fue la llamada EDVAC (Electronic Discrete-Variable Automatic Computer, es decir 'computadora automática electrónica de variable discreta'), desarrollada por Von Neumann, Eckert y Mauchly. Los programas almacenados dieron a las computadoras flexibilidad y confiabilidad, haciéndolas más rápidas y menos sujetas a errores que los programas mecánicos.
-<img src="maquina_c.jpg" width=220px>
+<img src="maquina_v.jpg" width=220px>
+
 - Fue creador de las máquinas de autorreplicarse, lo que le llevó al concepto de lo que ahora llamamos máquinas de Von Neumann o autómatas celulares.
 -  Donald Knuth denomina a von Neumann como el inventor, en 1945, del conocido algoritmo merge sort, en el cual la primera y segunda mitad de un array (vector) son cada una clasificadas recursivamente y luego fusionadas juntas.
 <br>
