@@ -74,6 +74,7 @@ Durante el curso 1940-41 permaneció en el "Institute for Advanced Study", en Pr
 nació en Michigan (EE. UU.) en plena Primera Guerra Mundial (1916). Entre los mayores logros de Claude Shannon se encuentra el sentar las bases de la teoría del diseño de circuitos digitales, pero además fue capaz de rescatar el álgebra booleana 70 años después de su nacimiento y demostrar que existía en ella una relación lógico-numérica.
 ##### Aportaciones
 Una teoría matemática de la comunicación es un importante e influyente artículo ideado por Claude Elwood Shannon en 1948, conocido por ser el padre de la teoría de la información​ Shannon trabajó en ella durante ocho años, mientras era empleado de los laboratorios Bell.
+
 <img src="maquina_c.jpg" width=220px>
 
 - ###### El artículo de Shannon expuso los elementos básicos de la comunicación:
