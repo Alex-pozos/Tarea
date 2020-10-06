@@ -148,7 +148,6 @@ Puede decirse que el papel desempeñado por Chomsky ha resultado crucial en este
 
 ##### Aportaciones
 
-´´´
 - La jerarquía de Chomsky, que estableció en 1956 en su obra "Three models for the description of language" se convirtió en un concepto central en informática. Así, los lenguajes formales (que no admiten excepciones a las reglas) se dividen en cuatro niveles (tres en el estudio original), que son: 
     1.  Lenguajes regulares.  
     2.	Lenguajes libres del contexto.
@@ -156,4 +155,3 @@ Puede decirse que el papel desempeñado por Chomsky ha resultado crucial en este
     4.	Lenguajes recursivamente enumerables.
 - A aportado elementos indispensables para la construcción de compiladores y traductores que puedan servir de intérpretes válidos.
 <img src="compiladores.jpg" width=220px>
-´´´
