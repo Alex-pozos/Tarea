@@ -8,7 +8,7 @@ En el siguiente trabajo se hablará sobre algunos de principales computologos, a
 <br>
 
 #### Charles Babbage
-<img src="Charles.jpg" width=220px>
+<img src="img/Charles.jpg" width=220px>
 
 ##### Biografía
 Fue un matemático de origen británico nacido en Teignmouth Inglaterra el 26 de diciembre de 1791.
@@ -20,7 +20,7 @@ En compañía de Ada Lovelace, que empleó mucho de su tiempo en la publicación
 - En 1833 creó la “máquina diferencial” la cual permitía calcular logaritmos e imprimirlos de 1 a 108.000 con notable precisión, y formuló los fundamentos teóricos de cualquier autómata de cálculo.
 
 - Después de esto, Babbage se volcó en el proyecto de diseñar una "máquina analítica" que fuese capaz de procesar cualquier secuencia de instrucciones aritméticas.
-<img src="maquina_a.jpg" width=220px>
+<img src="img/maquina_a.jpg" width=220px>
 
 - En honor de Lady Ada Lovelace, el Departamento de Defensa de los Estados Unidos denominó ADA a un lenguaje de programación de computadoras de alto nivel.
 
@@ -28,7 +28,7 @@ En compañía de Ada Lovelace, que empleó mucho de su tiempo en la publicación
 <br>
 
 #### Herman Hollerith
- <img src="Herman.jpg" width=220px>
+ <img src="img/Herman.jpg" width=220px>
 
 ##### Biografía
 Nació en Buffalo, Nueva York, el 29 de febrero de 1860, fue un hombre que revolucionó el tratamiento a gran escala de información mediante la automatización, y por tanto el primer informático. Considerado uno de los pioneros de la informática por su invención de las máquinas estadísticas de tarjetas o fichas perforadas, con las que logró automatizar los trabajos de cómputo y clasificación de grandes volúmenes de información. 
@@ -37,12 +37,12 @@ A lo largo de la década de 1880, Hollerith probó con éxito su invento en dive
 
 ##### Aportaciones
 - En 1889 perfeciono la máquina tabuladora, la principal mejora fue sustituir la cinta de papel por una serie de tarjetas perforadas, sistema que patentó en ese mismo año.
-<img src="maquina_t.jpg" width=220px>
+<img src="img/maquina_t.jpg" width=220px>
 - En 1896 fundó la Tabulating Machine Company, empresa dedicada a la fabricación y comercialización de máquinas procesadoras de datos. Esta empresa pasó a llamarse en 1924 International Business Machines (IBM), y se convertiría tras la Segunda Guerra Mundial en una de las compañías punteras del sector informático.
 <br>
 
 #### Alan Mathison Turing
- <img src="Alan.jpg" width=220px>
+ <img src="img/Alan.jpg" width=220px>
 
 ##### Biografía
 También conocido como el padre de la informática modera, fue un brillante matemático, criptoanalista e informático teórico nacido el 23 de Junio de 1912 en Maida Vale un distrito residencial al oeste de Londres.
@@ -54,7 +54,7 @@ El 8 de junio de 1954, Turing fue encontrado muerto por su personal de limpieza.
 ##### Aportaciones
 - En 1937 publicó un célebre artículo en el que definió una máquina calculadora de capacidad infinita (máquina de Turing) que operaba basándose en una serie de instrucciones lógicas, sentando así las bases del concepto moderno de algoritmo.
 - Formalizó los conceptos de algoritmo y computación con su máquina de Turing
-<img src="maquina_tu.jpg" width=220px>
+<img src="img/maquina_tu.jpg" width=220px>
 
 - Es considerado el padre de la inteligencia artificial
 - Su participación en el equipo de criptoanálisis de la máquina de criptografía alemana Enigma, que fue una maquina electro mecánica con rotor usada para enviar mensajes cifrados por la Alemania nazi durante la Segunda Guerra Mundial.
@@ -62,7 +62,7 @@ El 8 de junio de 1954, Turing fue encontrado muerto por su personal de limpieza.
 <br>
 
 #### Claude Elwood Shannon 
-<img src="Claude.jpg" width=220px>
+<img src="img/Claude.jpg" width=220px>
 
 ##### Biografía
 También conocido como el padre del Bit, nació el 30 de abril de1 916, Petoskey Michigan Estados Unidos y falleció  24 de febrero de 2001, Medford, Massachusetts,Estados Unidos.
@@ -75,7 +75,7 @@ nació en Michigan (EE. UU.) en plena Primera Guerra Mundial (1916). Entre los m
 ##### Aportaciones
 Una teoría matemática de la comunicación es un importante e influyente artículo ideado por Claude Elwood Shannon en 1948, conocido por ser el padre de la teoría de la información​ Shannon trabajó en ella durante ocho años, mientras era empleado de los laboratorios Bell.
 
-<img src="maquina_c.jpg" width=220px>
+<img src="img/maquina_c.jpg" width=220px>
 
 - ###### El artículo de Shannon expuso los elementos básicos de la comunicación:
     - Una fuente de información que produce un mensaje.
@@ -89,7 +89,7 @@ Una teoría matemática de la comunicación es un importante e influyente artíc
 <br>
 
 #### John Von Neumann
- <img src="John.jpg" width=220px>
+ <img src="img/John.jpg" width=220px>
 
 ##### Biografía
 Nació en Budapest el 28 de diciembre de 1903, fue un gran matemático del siglo XX que realizó contribuciones importantes en la física cuántica, análisis funcional, teoría de conjuntos, ciencias de comunicación, economía, análisis numérico, cibernética, hidrodinámica de expresiones, estadística y otros campos de las matemáticas.
@@ -100,14 +100,14 @@ En 1955, von Neumann fue diagnosticado de cáncer de páncreas. Un año y medio 
 ##### Aportaciones
 - Fue pionero de la computadora digital moderna y de la aplicación de la teoría de operadores a la mecánica cuántica.
 - La primera computadora en usar el citado concepto fue la llamada EDVAC (Electronic Discrete-Variable Automatic Computer, es decir 'computadora automática electrónica de variable discreta'), desarrollada por Von Neumann, Eckert y Mauchly. Los programas almacenados dieron a las computadoras flexibilidad y confiabilidad, haciéndolas más rápidas y menos sujetas a errores que los programas mecánicos.
-<img src="maquina_v.jpg" width=220px>
+<img src="img/maquina_v.jpg" width=220px>
 
 - Fue creador de las máquinas de autorreplicarse, lo que le llevó al concepto de lo que ahora llamamos máquinas de Von Neumann o autómatas celulares.
 -  Donald Knuth denomina a von Neumann como el inventor, en 1945, del conocido algoritmo merge sort, en el cual la primera y segunda mitad de un array (vector) son cada una clasificadas recursivamente y luego fusionadas juntas.
 <br>
 
 #### Gordon Moore 
- <img src="Gordon.jpg" width=220px>
+ <img src="img/Gordon.jpg" width=220px>
 
 ##### Biografía
 Nació en la ciudad de San Francisco, en el estado de California, Estados Unidos, el 3 de enero del año 1929. Se crió en el seno de una familia promedio de clase trabajadora; su papá era el sheriff del pueblo y su madre se ocupaba de los oficios del hogar.
@@ -121,11 +121,11 @@ En la decada de los 50´s surgió entonces la oportunidad de trabajar en el cent
 - En 1968 se separaron de Fairchild.Así nació la empresa Intel (Integrated Electronics Corporation), cuya vicepresidencia fue asumida inicialmente por Gordon en 1975; años después fue su presidente y CEO (presidencia ejecutiva).
 - Intel sacó a la venta el microprocesador 4004 en el año 1971.
 - Creo la ley Moore que cita: Los semiconductores que se hicieron cada vez más pequeños y rápidos en el procesamiento de información se inspiraron en la conocida ley de Moore. Según este vaticinio o ley empírica, en términos generales la tecnología electrónica se duplica cada año.
- <img src="intel.jpg" width=220px>
+ <img src="img/intel.jpg" width=220px>
 <br>
 
 #### Alonzo Church
- <img src="Alonzo.jpg" width=220px>
+ <img src="img/Alonzo.jpg" width=220px>
 
 ##### Biografía
 Nacido 14 de junio de 1903, estableció el concepto de calculabilidad y su demostración de la indecidibilidad de la lógica de primer orden, conocido como Tesis de Church. 
@@ -133,13 +133,13 @@ De sus trabajos es notable su concepto de calculabilidad de una función y su de
 Este resultado unido al trabajo de Turing sobre el problema de parada en la Máquina de Turing, que también demostraba la existencia de un problema irresoluble por medios mecánicos, demostraron que tenían capacidades de computo equivalentes, dando lugar a la Tesis Church-Turing. Destacan sus obras "The Calculi of Lambda-Conversion" (Cálculo de conversión Lambda) en 1941, e "Introduction to Mathematical Logic" (Introducción a la lógica matemática) en 1944.
 ##### Aportaciones
 - Desarrolló el cálculo de conversión Lambda en 1936, que permite efectuar operaciones lógicas con variables generalizadas, demostrando la presencia de problemas indecidibles.
-<img src="lambda.jpg" width=220px>
+<img src="img/lambda.jpg" width=220px>
 - Introducción a la lógica matemática 1944.
 - Journal of Symbolic Logic, publicación que él mismo dirigía y editaba desde 1936.
 <br>
 
 #### Noam Chomsky
-<img src="Noam.jpg" width=220px>
+<img src="img/Noam.jpg" width=220px>
 
 ##### Biografía
 Nacido en 1928 en Filadelfia, es profesor de lingüística en el MIT, Estados Unidos, y una de las figuras más destacadas de la lingüística del siglo XX, con grandes aportaciones en el campo de la informática. Estudió en Pensilvania, donde se doctoró en 1955 con una tesis sobre el análisis transformacional, tras lo que pasó a integrarse en el equipo docente del MIT.
@@ -154,4 +154,4 @@ Puede decirse que el papel desempeñado por Chomsky ha resultado crucial en este
     3.	Lenguajes sensibles al contexto.
     4.	Lenguajes recursivamente enumerables.
 - A aportado elementos indispensables para la construcción de compiladores y traductores que puedan servir de intérpretes válidos.
-<img src="compiladores.jpg" width=220px>
+<img src="img/compiladores.jpg" width=220px>
