@@ -1,36 +1,4 @@
-## Tarea Actividad2
-
-### Línea del tiempo de la historia de los compiladores
-
-<body>
-<div class="linea-tiempo">
-  <div class="momento">
-    <h3>2010</h3>
-    <div class="descripcion">
-      Poop on grasses fight an alligator and win and fight own tail.
-    </div>
-  </div>
-  <div class="momento">
-    <h3>2011</h3>
-    <div class="descripcion">
-      Poop on grasses fight an alligator and win and fight own tail.
-    </div>
-  </div>
-  <div class="momento">
-    <h3>2013</h3>
-    <div class="descripcion">
-      Poop on grasses fight an alligator and win and fight own tail.
-    </div>
-  </div>
-  <div class="momento">
-    <h3>2019</h3>
-    <div class="descripcion">
-      Poop on grasses fight an alligator and win and fight own tail.
-    </div>
-  </div>
-</div>
-
-<style>.linea-tiempo {
+.linea-tiempo {
     position: relative;
     width: 500px;
     max-width: 95vw;
@@ -109,6 +77,3 @@
     border-right: 12px solid #3393FE;
     border-left: none;
   }
-  </style>
-  </body>
-</html>
