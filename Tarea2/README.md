@@ -2,7 +2,6 @@
 
 ### Línea del tiempo de la historia de los compiladores
 
-<body>
 <div class="linea-tiempo">
   <div class="momento">
     <h3>2010</h3>
@@ -110,5 +109,3 @@
     border-left: none;
   }
   </style>
-  </body>
-</html>
