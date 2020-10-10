@@ -1,7 +1,7 @@
 ## Tarea Actividad2
 
 ### Línea del tiempo de la historia de los compiladores
-<html xmlns="http://www.w3.org/1999/xhtml">
+
 <div class="linea-tiempo">
   <div class="momento">
     <h3>2010</h3>
@@ -109,4 +109,3 @@
     border-left: none;
   }
   </style>
-  </html>
