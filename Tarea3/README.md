@@ -11,3 +11,5 @@
 <img src="img/Volumen_Esfera.png">
 
 <img src="img/Angulo.png">
+
+<img src="Distancia_de_dos_puntos.png">
