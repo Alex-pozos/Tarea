@@ -12,4 +12,4 @@
 
 <img src="img/Angulo.png">
 
-<img src="Distancia_de_dos_puntos.png">
+<img src="img/Distancia_de_dos_puntos.png">
