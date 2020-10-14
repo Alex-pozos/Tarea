@@ -10,4 +10,4 @@
 
 <img src="img/Volumen_Esfera.png">
 
-<img src="img/Agulo.png">
+<img src="img/Angulo.png">
