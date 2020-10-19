@@ -14,4 +14,6 @@
 <img src="img/8.png">
 <img src="img/9.png">
 <img src="img/10.png">
+
+#### Valores de las validaciones
 <img src="img/cmd.png">
