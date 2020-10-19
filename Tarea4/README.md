@@ -1,4 +1,3 @@
-<body style="background: black">
 ## Tarea Actividad4
 
 ### Validaciones por expresiones regulares
@@ -18,4 +17,3 @@
 
 #### Valores de las validaciones
 <img src="img/cmd.png">
-</body>
