@@ -2,7 +2,7 @@
 
 ### Validaciones por expresiones regulares
 
-- Adjunto link del archivo original de las [Validaciones.java](https://github.com/Alex-pozos/Tareas/tree/main/Tarea4/doc_Java)
+- Adjunto link del archivo original de las [Validaciones.java](https://github.com/Alex-pozos/Tareas/tree/main/Tarea4/doc_Java/Validaciones.java)
 
 <img src="img/1.png">
 <img src="img/2.png">
