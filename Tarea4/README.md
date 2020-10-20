@@ -12,7 +12,10 @@
     - C:\Users\Admin\Desktop>javac ejemplo.java
 - Para correr el archivo ya compilado es 
     - C:\Users\Admin\Desktop>java ejemplo
+    <img src="img/ejemplo.png">
+    
     - Y listo deberia de poder visualizar las ventanitas como se muestran a continuacion
+
 <img src="img/1.png">
 <img src="img/2.png">
 <img src="img/3.png">
