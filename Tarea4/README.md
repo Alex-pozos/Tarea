@@ -3,7 +3,7 @@
 ### Validaciones por expresiones regulares
 
 - Adjunto link del archivo original de las [Validaciones.java](https://github.com/Alex-pozos/Tareas/tree/main/Tarea4/doc_Java/Validaciones.java)
-- Para poder ejecutar solo basta con copiar el archivo adjunto a un editor de texto y guardar el archivo con la extencion .java
+- Para poder ejecutar solo basta con copiar el archivo adjunto a un editor de texto y guardar el archivo con la extencion .java.
     - Ejemplo: ejemplo.java
 - Abrir la consolo CMD e ir a la ruta donde se enceuntra tu archivo.  
     - Ejemplo: se encuentra en el escritorio debes de ingresar la siguiente ruta
