@@ -41,6 +41,7 @@ FECHA:
 <br>
 <br>
 <br>
+
 #### Generación de código intermedio 
 
 En el proceso de traducir un programa fuente a código destino, un compilador puede construir una o más representaciones intermedias, las cuales pueden tener una variedad de formas. Los árboles sintácticos son una forma de representación intermedia; por lo general, se utilizan durante el análisis sintáctico y semántico.
