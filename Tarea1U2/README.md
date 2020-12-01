@@ -72,6 +72,7 @@ Op. | Arg1 | Arg2 | Resultado
 (=) | r3 |  | a
 
 **Triples**
+
 Cada instrucción en triples presentación tiene tres campos: op, arg1, arg2. Los resultados de las respectivas sub-expresiones son indicados por la posición de expresión. Similitud con Triples representan DAG y árbol de sintaxis. Son equivalentes a DAG al tiempo que representan las expresiones.
 
 Op. | Arg1 | Arg2 
