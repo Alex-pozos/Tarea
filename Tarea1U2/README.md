@@ -37,7 +37,9 @@ Después del análisis sintáctico y semántico del programa fuente, muchos comp
 **Representación intermedia**
 
 Códigos intermedios puede ser representado en una variedad de formas y tienen sus propios beneficios.
+
 **Alto nivel IR** - Alto nivel de representación de código intermedio está muy cerca de la lengua de origen. Pueden ser fácilmente generados desde el código fuente y podemos aplicar fácilmente modificaciones de código para mejorar el rendimiento. Pero para optimización de la máquina destino, es menos preferido.
+
 **Bajo Nivel IR** - Este es cerca de la máquina de destino, lo que lo hace adecuado para registro y asignación de memoria, un conjunto de instrucciones selección, etc. es bueno para optimizaciones dependientes de la máquina.
 Código intermedio puede ser específica para cada idioma (p. ej., código de bytes de Java) o independiente de la lengua (tres-código de dirección).
 
