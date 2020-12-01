@@ -68,20 +68,20 @@ Cada instrucción cuadruplica exposición se divide en cuatro campos: operador, 
 
 Op. | Arg1 | Arg2 | Resultado
 :------------: | :-----------: | :-----------: | :-----------:
-* | c | d | r1
-+ | b | r1 | r2
-+ | r2 | r1 | r3
-= | r3 |  | a
+(*) | c | d | r1
+(+) | b | r1 | r2
+(+) | r2 | r1 | r3
+(=) | r3 |  | a
 
 **Triples**
 Cada instrucción en triples presentación tiene tres campos: op, arg1, arg2. Los resultados de las respectivas sub-expresiones son indicados por la posición de expresión. Similitud con Triples representan DAG y árbol de sintaxis. Son equivalentes a DAG al tiempo que representan las expresiones.
 
 Op. | Arg1 | Arg2 
 :------------: | :-----------: | :-----------:
-* | c | d 
-+ | b | (0)
-+ | (1) | (0)
-= | (2) | 
+(*) | c | d 
+(+) | b | (0)
+(+) | (1) | (0)
+(=) | (2) | 
 
 
 
