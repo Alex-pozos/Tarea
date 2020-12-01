@@ -1,9 +1,3 @@
- <style type="text/css">
-  H2 {
-    text-align: center; }
-  H4 {
-    text-align: center; }
-  </style>
 
 <img src="img/itma.png" width="90">______________________________________<img src="img/tec.png" width="90">
 <H2>TECNOLOGICO NACIONAL DE MEXICO</H2>
@@ -90,3 +84,9 @@ Op. | Arg1 | Arg2
 
 
 
+ <style type="text/css">
+  H2 {
+    text-align: center; }
+  H4 {
+    text-align: center; }
+  </style>
