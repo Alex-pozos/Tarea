@@ -1,17 +1,18 @@
 
-<img src="img/itma.png" width="90">______________________________________<img src="img/tec.png" width="90">
-<H2>TECNOLOGICO NACIONAL DE MEXICO</H2>
-<H2>INSTITUTO TECNOLOGICO DE MILPA ALTA II</H2>
-<H2>LENGUAJES AUTOMATAS 2</H2>
-<H2>PROFESOR:</H2>
-<H4>ROLDAN AQUINO SEGURA</H4>
-<H2>ALUMNO:</H2>
-<H4>ALEJANDRO POZOS RIVERA</H4>
-<H2>TEMA:</H2>
-<H4>GENERACION DE CODIGO INTERMEDIO</H4>
-<H2>NUMERO DE UNIDAD: 2°</H2>
-<H2>FECHA: </H2>
-<H4>01 DE DICIEMBRE DE 2020</H4>
+<img src="img/itma.png" width="90">_________________________________<img src="img/tec.png" width="90">
+
+### TECNOLOGICO NACIONAL DE MEXICO
+### INSTITUTO TECNOLOGICO DE MILPA ALTA II
+### TALLER DE INVESTIGACION 1
+### PROFESOR:
+#### ROLDAN AQUINO SEGURA 
+### ALUMNO:
+#### ALEJANDRO POZOS RIVERA
+### TEMA:
+#### GENERACION DE CODIGO INTERMEDIO
+#### NUMERO DE UNIDAD: 2°
+#### FECHA: 
+### 01 DE DICIEMBRE DE 2020
 
 
 <br>
@@ -84,9 +85,3 @@ Op. | Arg1 | Arg2
 
 
 
- <style type="text/css">
-  H2 {
-    text-align: center; }
-  H4 {
-    text-align: center; }
-  </style>
