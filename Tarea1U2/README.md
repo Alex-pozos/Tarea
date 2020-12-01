@@ -1,7 +1,7 @@
 
 <strong><H2><img src="img/itma.png" width="90">TECNOLOGICO NACIONAL DE MEXICO<img src="img/tec.png" width="90"></H2></strong>
 
-### INSTITUTO TECNOLOGICO DE MILPA ALTA II
+ <strong><H2>INSTITUTO TECNOLOGICO DE MILPA ALTA II</H2></strong>
 ### TALLER DE INVESTIGACION 1
 ### PROFESOR:
 #### ROLDAN AQUINO SEGURA 
