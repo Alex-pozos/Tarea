@@ -1,5 +1,5 @@
- <p style="text-align:center;">
- TECNOLOGICO NACIONAL DE MEXICO
+
+### TECNOLOGICO NACIONAL DE MEXICO
 
 ### INSTITUTO TECNOLOGICO DE MILPA ALTA II
 
@@ -16,7 +16,6 @@
 
 #### FECHA: 
 ### 01 DE DICIEMBRE DE 2020
-</p>
 
 
 <br>
@@ -66,73 +65,23 @@ Un código de dirección tiene un máximo de tres direcciones para calcular la e
 **Cuadruplica**
 
 Cada instrucción cuadruplica exposición se divide en cuatro campos: operador, arg1, arg2, y resultado. El ejemplo anterior se representa a continuación cuadruplica en formato:
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td style="width: 33%;">Op.</td>
-    <td style="width: 33%;">Arg1</td>
-    <td style="width: 33%;">Arg2</td>
-    <td style="width: 33%;">Resultado</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">*</td>
-    <td style="width: 33%;">c</td>
-    <td style="width: 33%;">d</td>
-    <td style="width: 33%;">r1</td>
-  
-  </tr>
-  <tr>
-    <td style="width: 33%;">+</td>
-    <td style="width: 33%;">b</td>
-    <td style="width: 33%;">r1</td>
-    <td style="width: 33%;">r2</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">+</td>
-    <td style="width: 33%;">r2</td>
-    <td style="width: 33%;">r1</td>
-    <td style="width: 33%;">r3</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">=</td>
-    <td style="width: 33%;">r3</td>
-    <td style="width: 33%;"></td>
-    <td style="width: 33%;">a</td>
-  </tr>
-</table>
 
+Op. | Arg1 | Arg2 | Resultado
+:------------: | :-----------: | :-----------: | :-----------:
+* | c | d | r1
++ | b | r1 | r2
++ | r2 | r1 | r3
+= | r3 |  | a
 
 **Triples**
 Cada instrucción en triples presentación tiene tres campos: op, arg1, arg2. Los resultados de las respectivas sub-expresiones son indicados por la posición de expresión. Similitud con Triples representan DAG y árbol de sintaxis. Son equivalentes a DAG al tiempo que representan las expresiones.
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td style="width: 33%;">Op.</td>
-    <td style="width: 33%;">Arg1</td>
-    <td style="width: 33%;">Arg2</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">*</td>
-    <td style="width: 33%;">c</td>
-    <td style="width: 33%;">d</td>
-  
-  </tr>
-  <tr>
-    <td style="width: 33%;">+</td>
-    <td style="width: 33%;">b</td>
-    <td style="width: 33%;">(0)</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">+</td>
-    <td style="width: 33%;">(1)</td>
-    <td style="width: 33%;">(0)</td>
-  </tr>
-  <tr>
-    <td style="width: 33%;">=</td>
-    <td style="width: 33%;">(2)</td>
-    <td style="width: 33%;">.</td>
-  </tr>
-</table>
-
+Op. | Arg1 | Arg2 
+:------------: | :-----------: | :-----------:
+* | c | d 
++ | b | (0)
++ | (1) | (0)
+= | (2) | 
 
 
 
