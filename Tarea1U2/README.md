@@ -1,5 +1,5 @@
 
-<img src="img/itma.png" width="90"><strong><H2>TECNOLOGICO NACIONAL DE MEXICO</H2></strong><img src="img/tec.png" width="90">
+<strong><H2><img src="img/itma.png" width="90">TECNOLOGICO NACIONAL DE MEXICO<img src="img/tec.png" width="90"></H2></strong>
 
 ### INSTITUTO TECNOLOGICO DE MILPA ALTA II
 ### TALLER DE INVESTIGACION 1
