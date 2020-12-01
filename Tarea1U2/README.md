@@ -1,47 +1,28 @@
-<strong><h4>
-<p style="text-align: center;">
-TECNOLOGICO NACIONAL DE MEXICO 
-</p>
-<p style="text-align: center;">
-INSTITUTO TECNOLOGICO DE MILPA ALTA II
-</p>
-<p style="text-align: center;">
-TALLER DE INVESTIGACION 1
-</p>
-<p style="text-align: center;"> 
-PROFESOR:
-</p>
-<p style="text-align: center;">
-ROLDAN AQUINO SEGURA 
-</p>
-<p style="text-align: center;">
-ALUMNO:
-</p>
-<p style="text-align: center;">
-ALEJANDRO POZOS RIVERA
-</p>
-<p style="text-align: center;">
-TEMA:
-</p>
-<p style="text-align: center;">
-GENERACION DE CODIGO INTERMEDIO
-</p>
-<p style="text-align: center;">
-NUMERO DE UNIDAD: 2°
-</p>
-<p style="text-align: center;">
-FECHA: 
-</p>
-<p style="text-align: center;">
-01 DE DICIEMBRE DE 2020
-</p>
-</h4>
-</strong>
-<br>
-<br>
-<br>
-<br>
+ <p style="text-align:center;">
+ TECNOLOGICO NACIONAL DE MEXICO
 
+### INSTITUTO TECNOLOGICO DE MILPA ALTA II
+
+### TALLER DE INVESTIGACION 1
+ 
+### PROFESOR:
+#### ROLDAN AQUINO SEGURA 
+### ALUMNO:
+#### ALEJANDRO POZOS RIVERA
+
+### TEMA:
+#### GENERACION DE CODIGO INTERMEDIO
+#### NUMERO DE UNIDAD: 2°
+
+#### FECHA: 
+### 01 DE DICIEMBRE DE 2020
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
 #### Generación de código intermedio 
 
 En el proceso de traducir un programa fuente a código destino, un compilador puede construir una o más representaciones intermedias, las cuales pueden tener una variedad de formas. Los árboles sintácticos son una forma de representación intermedia; por lo general, se utilizan durante el análisis sintáctico y semántico.
