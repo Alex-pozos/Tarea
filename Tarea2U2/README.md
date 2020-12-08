@@ -94,7 +94,9 @@ sencilla, si está es compleja se debe reducir hasta quedar un operador sencillo
 
 
 <br>
+
 ##### Fuentes de información 
+
 http://itpn.mx/recursosisc/7semestre/leguajesyautomatas2/Unidad%20II.pdf
 http://dsc.itmorelia.edu.mx/~jcolivares/courses/ps207b/ps2_u6.pdf
 https://alexisbladimirlopezfigueroa1998.blogspot.com/2019/09/?m=0
