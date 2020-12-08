@@ -91,3 +91,12 @@ sencilla, si está es compleja se debe reducir hasta quedar un operador sencillo
      Análisis lineal También conocido como: análisis léxico o exploración.
      Ejemplo, en la proposición de asignación: posicion = inicial + velocidad * 60 Se identifican los siguientes componentes léxicos Identificador (posicion) Símbolo de asignación (=) Identificador (inicial) Signo de suma (+) Identificador (velocidad) Signo de multiplicación (*) Número (60)
 
+
+
+<br>
+##### Fuentes de información 
+http://itpn.mx/recursosisc/7semestre/leguajesyautomatas2/Unidad%20II.pdf
+http://dsc.itmorelia.edu.mx/~jcolivares/courses/ps207b/ps2_u6.pdf
+https://alexisbladimirlopezfigueroa1998.blogspot.com/2019/09/?m=0
+http://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2008/tema7.pdf
+
