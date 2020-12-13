@@ -49,6 +49,9 @@ sencilla, si está es compleja se debe reducir hasta quedar un operador sencillo
 
 - #### 2.3.6 Estructuras
     - Estructura y fases de un compilador.
-     Análisis lineal También conocido como: análisis léxico o exploración.
-     Ejemplo, en la proposición de asignación: posicion = inicial + velocidad * 60 Se identifican los siguientes componentes léxicos Identificador (posicion) Símbolo de asignación (=) Identificador (inicial) Signo de suma (+) Identificador (velocidad) Signo de multiplicación (*) Número (60)
+     Análisis lineal También conocido como: análisis léxico o exploración.<br>
+     Ejemplo, en la proposición de asignación:<br> 
+     posicion = inicial + velocidad * 60<br>
+     Se identifican los siguientes componentes léxicos<br>
+     Identificador (posicion) Símbolo de asignación (=)<br>Identificador (inicial) Signo de suma (+) <br>Identificador (velocidad) Signo de multiplicación (*) Número (60)
 
