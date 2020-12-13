@@ -52,14 +52,15 @@ Las notaciones son una forma especial en la que se pueden expresar una expresió
     después de los operandos sus características principales son:
     - El orden de los operandos se conserva igual que la expresión infija equivalente no utiliza paréntesis ya que no es una operación ambigua.
     - La operación posfija no es exactamente lo inverso a la operación prefija equivalente.
-    - El orden es primer operando, segundo operando, operando.
-    (A+B)*C AB+C*
-    Ejemplo:
-    Si deseamos representar las expresiones (2+(3*4)) = xy ((2+3)*4) = x en las tres notaciones mencionadas, el resultado sería:
-    (2+(3*4)) = x
-    ((2+3)*4) = x
-    Notación postfija
-    2 3 4 * + x =
+    - El orden es primer operando, segundo operando, operando. <br>
+    (A+B)*C AB+C*<br>
+    Ejemplo:<br>
+    Si deseamos representar las expresiones<br>
+    (2+(3*4)) = xy ((2+3)*4) = x en las tres notaciones mencionadas, el resultado sería:<br>
+    (2+(3*4)) = x<br>
+    ((2+3)*4) = x<br>
+    Notación postfija<br>
+    2 3 4 * + x =<br>
     2 3 + 4 * x =
 
 ### 2.2 Representación de código intermedio 
