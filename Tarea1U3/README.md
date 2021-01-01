@@ -30,37 +30,37 @@
     - **EJEMPLOS:**
 
         **1-  Ejecución en tiempo de compilación**<br>
-        Precalcular  expresiones constantes (con constantes o variables cuyo valor no cambia).
-        3 ! i = 5
-        j = 4
-        f = j + 2.5
-        !
-        j = 4
-        f = 6.5
+        Precalcular  expresiones constantes (con constantes o variables cuyo valor no cambia).<br>
+        3 ! i = 5<br>
+        j = 4<br>
+        f = j + 2.5<br>
+        !<br>
+        j = 4<br>
+        f = 6.5<br>
 
         **2- Reutilización de expresiones comunes**<br>
-        a = b + c
-        d = a - d
-        e = b + c
-        f = a - d
-        !
-        a = b + c
-        d = a - d
-        e = a
-        f = a – d
+        a = b + c<br>
+        d = a - d<br>
+        e = b + c<br>
+        f = a - d<br>
+        !<br>
+        a = b + c<br>
+        d = a - d<br>
+        e = a<br>
+        f = a – d<br>
 
         **3-  Propagación de copias**<br>
-        Ante instrucciones f=a, sustituir todos los usos de f por a.
-        a = 3 + i
-        f = a
-        b = f + c
-        d = a + m
-        m = f + d
-        !
-        a = 3 + i
-        b = a + c
-        d = a + m
-        m = a + d
+        Ante instrucciones f=a, sustituir todos los usos de f por a.<br>
+        a = 3 + i<br>
+        f = a<br>
+        b = f + c<br>
+        d = a + m<br>
+        m = f + d<br>
+        !<br>
+        a = 3 + i<br>
+        b = a + c<br>
+        d = a + m<br>
+        m = a + d<br>
 
         **4-  Eliminación redundancias en acceso matrices**<br>
         Localizar expresiones comunes en cálculo direcciones de matrices.
