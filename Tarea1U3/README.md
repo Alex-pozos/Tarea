@@ -29,7 +29,7 @@
 
     - **EJEMPLOS:**
 
-        **1-  Ejecución en tiempo de compilación**
+        **1-  Ejecución en tiempo de compilación**<br>
         Precalcular  expresiones constantes (con constantes o variables cuyo valor no cambia).
         3 ! i = 5
         j = 4
@@ -38,7 +38,7 @@
         j = 4
         f = 6.5
 
-        **2- Reutilización de expresiones comunes**
+        **2- Reutilización de expresiones comunes**<br>
         a = b + c
         d = a - d
         e = b + c
@@ -49,7 +49,7 @@
         e = a
         f = a – d
 
-        **3-  Propagación de copias**
+        **3-  Propagación de copias**<br>
         Ante instrucciones f=a, sustituir todos los usos de f por a.
         a = 3 + i
         f = a
@@ -62,10 +62,10 @@
         d = a + m
         m = a + d
 
-        **4-  Eliminación redundancias en acceso matrices**
+        **4-  Eliminación redundancias en acceso matrices**<br>
         Localizar expresiones comunes en cálculo direcciones de matrices.
 
-        **5- Transformaciones algebraicas:**
+        **5- Transformaciones algebraicas:**<br>
         Aplicar propiedades matemáticas para simplificar expresiones
 
         -   Eliminación secuencias nulas
@@ -94,7 +94,7 @@
 
     - Se recorre el código buscando combinaciones de instrucciones que pueden ser reemplazadas por otras equivalentes más eficientes.
     - Se utiliza una ventana de n instrucciones y un conjunto de patrones de transformación (patrón, secuencias, remplazan).
-    - Las nuevas instrucciones son reconsideradas para las futuras optimizaciones.
+    - Las nuevas instrucciones son reconsideradas para las futuras optimizaciones.<br>
     **Ejemplos:**
 
     - Eliminación de cargas innecesarias
