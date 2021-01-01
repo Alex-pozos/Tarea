@@ -59,7 +59,7 @@
     - La optimización al igual que la programación es un arte y no se ha podido sistematizar del todo.
 
 <div align="center">
-<img src="img/Mapa.png">
-<img src="img/unnamed.png">
+<img src="img/Mapa.png"><br>
+<img src="img/unnamed.png"><br>
 <img src="img/erroneo.png">
 </div>
