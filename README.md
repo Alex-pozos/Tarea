@@ -11,3 +11,8 @@
 - <a href="https://github.com/Alex-pozos/Tareas/blob/main/Tarea2U2/README.md" Style="color:purple">Tarea2_U2_Resumen_Temas_2.1_&_2.2</a>
 
 - <a href="https://github.com/Alex-pozos/Tareas/blob/main/Tarea3U2/README.md" Style="color:purple">Tarea3_U2_Resumen_Tema_2.3</a>
+
+## Indice de tareas U2
+
+- <a href="https://github.com/Alex-pozos/Tareas/blob/main/Tarea1U3/README.md" Style="color:purple">Tarea1_U3_3.1_Tipos_de_Optimización</a>
+- <a href="https://github.com/Alex-pozos/Tareas/blob/main/Tarea2U3/README.md" Style="color:purple">Tarea3_U3_3.2_Costos</a>
