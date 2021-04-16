@@ -9,17 +9,17 @@ let rfc:String = "";
     
 }*/
 //Se crea una funcion que se llama caracter invalido para cada ves que cualquier apellido que incie con Ñ lo cambie por una X
-function caracter_invalido(letra){
+function caracter_invalido(letra:any){
     return letra.replace("Ñ","X").replace("/","X");
 }
 //La siguiente funcion quita el primer nombre si es MARIA, MA, MA., JOSE, J o J., lo remplaza por algo vacio y agrego trim para eliminar espacios al inicio y final
-function quita_primer_nom(palabra){
+function quita_primer_nom(palabra:any){
         return palabra.replace("MARIA","").replace("MA.","").replace("MA","").replace("JOSE"
         ,"").replace("J","").replace("J.","").trim();    
     
 }
 //La siguiente funcion quita todos los articulos cuando el apellido tiene DEL, LAS, DE, LA, Y, A a lo cual por medio del metodo replace lo cambia por un espacio en blanco
-function quita_articulos(palabra) {
+function quita_articulos(palabra:any) {
     return palabra.replace("DEL ", "").replace("LAS ", "").replace("DE ",
             "").replace("LA ", "").replace("Y ", "").replace("A ", "");
 }
